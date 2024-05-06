@@ -12,8 +12,6 @@ The method needs to return an area of a rectangle.
 
 If either or both parameters is/are a negative return -1.0 to indicate an invalid value.
 
-For formulas and PI value please check the tips below.
-
 Examples of input/output:
 
     area(5.0); should return 78.53981633974483 or 78.53981
