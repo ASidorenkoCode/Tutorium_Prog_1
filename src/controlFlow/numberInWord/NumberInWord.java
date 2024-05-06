@@ -1,2 +1,4 @@
-package controlFlow.numberInWord;public class NumberInWord {
+package controlFlow.numberInWord;
+
+public class NumberInWord {
 }

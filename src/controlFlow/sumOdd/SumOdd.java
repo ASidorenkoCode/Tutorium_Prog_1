@@ -1,2 +1,4 @@
-package controlFlow.sumOdd;public class SumOdd {
+package controlFlow.sumOdd;
+
+public class SumOdd {
 }

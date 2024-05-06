@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.decimalComparator;public class DecimalComparator {
+package expressionStatementsAndMore.decimalComparator;
+
+public class DecimalComparator {
 }

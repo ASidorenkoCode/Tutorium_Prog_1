@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.areaCalculator;public class AreaCalculator {
+package expressionStatementsAndMore.areaCalculator;
+
+public class AreaCalculator {
 }

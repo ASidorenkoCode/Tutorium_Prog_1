@@ -1,4 +1,4 @@
-**Speed Converter**
+# Speed Converter
 
 1. Write a method called toMilesPerHour that has 1 parameter of type double with the name kilometersPerHour. This method needs to return the rounded value of the calculation of type long.
 
@@ -34,11 +34,11 @@ If the parameter kilometersPerHour is < 0 then print the text "Invalid Value".
 Examples of input/output:
 
     printConversion(1.5); → should print the following text (into the console - System.out): 1.5 km/h = 1 mi/h
-
+    
     printConversion(10.25); → should print the following text (into the console - System.out): 10.25 km/h = 6 mi/h
-
+    
     printConversion(-5.6); → should print the following text (into the console - System.out): Invalid Value
-
+    
     printConversion(25.42); → should print the following text (into the console - System.out): 25.42 km/h = 16 mi/h
 
     printConversion(75.114); → should print the following text (into the console - System.out): 75.114 km/h = 47 mi/h
@@ -46,3 +46,6 @@ Examples of input/output:
 
 Use method Math.round to round the number of calculated miles per hour(double). The method round returns long.
 
+**TIP**: In the method printConversion, call the method toMilesPerHour instead of duplicating the code.
+
+**NOTE**: 1 mile per hour is 1.609 kilometers per hour

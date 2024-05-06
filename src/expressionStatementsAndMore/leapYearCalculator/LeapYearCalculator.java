@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.leapYearCalculator;public class LeapYearCalculator {
+package expressionStatementsAndMore.leapYearCalculator;
+
+public class LeapYearCalculator {
 }

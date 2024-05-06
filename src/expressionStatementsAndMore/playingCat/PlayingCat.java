@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.playingCat;public class PlayingCat {
+package expressionStatementsAndMore.playingCat;
+
+public class PlayingCat {
 }

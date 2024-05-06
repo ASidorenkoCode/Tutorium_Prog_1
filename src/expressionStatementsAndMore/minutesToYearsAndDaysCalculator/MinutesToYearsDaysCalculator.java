@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.minutesToYearsAndDaysCalculator;public class MinutesToYearsDaysCalculator {
+package expressionStatementsAndMore.minutesToYearsAndDaysCalculator;
+
+public class MinutesToYearsDaysCalculator {
 }

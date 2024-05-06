@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.teenNumberChecker;public class TeenNumberChecker {
+package expressionStatementsAndMore.teenNumberChecker;
+
+public class TeenNumberChecker {
 }

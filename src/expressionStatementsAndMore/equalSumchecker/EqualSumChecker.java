@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.equalSumchecker;public class EqualSumChecker {
+package expressionStatementsAndMore.equalSumchecker;
+
+public class EqualSumChecker {
 }

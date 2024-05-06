@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.megaBytesConverter;public class MegaBytesConverter {
+package expressionStatementsAndMore.megaBytesConverter;
+
+public class MegaBytesConverter {
 }

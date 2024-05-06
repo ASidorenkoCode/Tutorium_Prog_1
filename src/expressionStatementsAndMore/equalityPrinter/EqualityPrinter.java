@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.equalityPrinter;public class EqualityPrinter {
+package expressionStatementsAndMore.equalityPrinter;
+
+public class EqualityPrinter {
 }

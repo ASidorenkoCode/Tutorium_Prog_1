@@ -1,2 +1,4 @@
-package expressionStatementsAndMore.barkingDog;public class BarkingDog {
+package expressionStatementsAndMore.barkingDog;
+
+public class BarkingDog {
 }
